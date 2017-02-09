@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0912e33a68b75f516639c602c43c3723b11e20ba">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_83dc5c9475d8679bac8fe6ce29ddb0308ebb71a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_09bd7be3efaf01501a95dc215565e5236baeb286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_7ff04c71d84166202ba4d74376be4c90c5feccc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_f1c43baace1fe0ebff6fc03b035dc41649644d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_cd199b10bb5b77164d42131737e46141f92739cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_72089e21033b66c5ca8a681cab05a86f64849f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f6c6f0192efdd4329e2431fc7f7d6e306328ee4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2ab482e5152c257f8676c0beca759d8fef6ad33">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bae165963c42bab02dc3bbb52ca38c7bad5b59ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_64ebaf92661f5f060305585337c63adc64b40a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\ygarcia\Documents\AndroidProjects\PetsApp-ABNP7-\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_f09d79f7fd8136d6bbfa039edbe986d516424d07\classes.dex" />
+    </item>
+
+</items>
